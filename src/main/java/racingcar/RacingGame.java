@@ -23,7 +23,6 @@ public class RacingGame {
         return cars;
     }
 
-
     //게임 실행 메서드
     public void startRace() {
         for (int i = 1; i <= trialCount; i++) {
